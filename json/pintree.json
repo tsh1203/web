@@ -6,18 +6,47 @@
     "children": [
       {
         "type": "link",
-        "addDate": 1732780436303,
-        "title": "Chrome Extension CRX Downloader",
-        "icon": "https://logo.clearbit.com/www.crxdown.com",
-        "url": "https://www.crxdown.com/"
-      },
-      {
-        "type": "link",
         "addDate": 1732780460732,
         "title": "首页 - 洛谷 | 计算机科学教育新生态",
         "icon": "https://logo.clearbit.com/www.luogu.com.cn",
         "url": "https://www.luogu.com.cn/"
       },
+      {
+        "type": "link",
+        "addDate": 1732780665057,
+        "title": "GitHub",
+        "icon": "https://logo.clearbit.com/github.com",
+        "url": "https://github.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1732780912056,
+        "title": "科赋锐信息科技Cloudflare | Cloudflare",
+        "icon": "https://logo.clearbit.com/www.cloudflare-cn.com",
+        "url": "https://www.cloudflare-cn.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1732784980621,
+        "title": "florr.io",
+        "icon": "https://logo.clearbit.com/florr.io",
+        "url": "https://florr.io/"
+      },
+      {
+        "type": "link",
+        "addDate": 1732784980621,
+        "title": "原题机",
+        "icon": "https://logo.clearbit.com/yuantiji.ac",
+        "url": "http://yuantiji.ac/zh/"
+      },
+      {
+        "type": "link",
+        "addDate": 1732780436303,
+        "title": "Chrome插件下载工具",
+        "icon": "https://logo.clearbit.com/www.crxdown.com",
+        "url": "https://www.crxdown.com/"
+      },
+      
       {
         "type": "link",
         "addDate": 1732780534897,
@@ -28,7 +57,7 @@
       {
         "type": "link",
         "addDate": 1732780557586,
-        "title": "OIerDb NG",
+        "title": "OIer查找",
         "icon": "https://logo.clearbit.com/www.xn--vuqs4zq3d.com",
         "url": "https://www.xn--vuqs4zq3d.com/school/1131"
       },
@@ -49,16 +78,9 @@
       {
         "type": "link",
         "addDate": 1732780639008,
-        "title": "AIchatOS2",
+        "title": "AIchat",
         "icon": "https://logo.clearbit.com/chat18.aichatosgg.com",
         "url": "https://chat18.aichatosgg.com/#/chat/1732780638776"
-      },
-      {
-        "type": "link",
-        "addDate": 1732780665057,
-        "title": "GitHub",
-        "icon": "https://logo.clearbit.com/github.com",
-        "url": "https://github.com/"
       },
       {
         "type": "link",
@@ -66,20 +88,6 @@
         "title": "Steam++",
         "icon": "https://logo.clearbit.com/wwn.lanzouy.com",
         "url": "https://wwn.lanzouy.com/ir1ZW2aw7maj"
-      },
-      {
-        "type": "link",
-        "addDate": 1732780912056,
-        "title": "科赋锐信息科技Cloudflare | Cloudflare",
-        "icon": "https://logo.clearbit.com/www.cloudflare-cn.com",
-        "url": "https://www.cloudflare-cn.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1732784980621,
-        "title": "florr.io",
-        "icon": "https://logo.clearbit.com/florr.io",
-        "url": "https://florr.io/"
       }
     ]
   }
