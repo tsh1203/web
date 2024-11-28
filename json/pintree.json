@@ -2,7 +2,7 @@
   {
     "type": "folder",
     "addDate": 1732775361292,
-    "title": "收藏夹栏",
+    "title": "czHweb",
     "children": [
       {
         "type": "link",
@@ -68,17 +68,11 @@
         "url": "https://wwn.lanzouy.com/ir1ZW2aw7maj"
       },
       {
-          type": "folder",
-          "addDate": 1732775361292,
-        "title": "收藏夹栏",
-        "children": [
-            {
-          "type": "link",
-            "addDate": 1732780912056,
-          "title": "科赋锐信息科技Cloudflare | Cloudflare",
-          "icon": "https://logo.clearbit.com/www.cloudflare-cn.com",
-          "url": "https://www.cloudflare-cn.com/"
-        }
+        "type": "link",
+        "addDate": 1732780912056,
+        "title": "科赋锐信息科技Cloudflare | Cloudflare",
+        "icon": "https://logo.clearbit.com/www.cloudflare-cn.com",
+        "url": "https://www.cloudflare-cn.com/"
       }
     ]
   }
