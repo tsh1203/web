@@ -2,7 +2,7 @@
   {
     "type": "folder",
     "addDate": 1732775361292,
-    "title": "czHweb",
+    "title": "收藏夹栏",
     "children": [
       {
         "type": "link",
@@ -73,6 +73,13 @@
         "title": "科赋锐信息科技Cloudflare | Cloudflare",
         "icon": "https://logo.clearbit.com/www.cloudflare-cn.com",
         "url": "https://www.cloudflare-cn.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1732784980621,
+        "title": "florr.io",
+        "icon": "https://logo.clearbit.com/florr.io",
+        "url": "https://florr.io/"
       }
     ]
   }
