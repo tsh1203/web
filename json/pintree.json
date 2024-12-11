@@ -57,6 +57,13 @@
             "title": "zhengddzz网盘",
             "icon": "https://logo.clearbit.com/pan.zhengddzz.fun",
             "url": "http://pan.zhengddzz.fun/"
+          },
+          {
+            "type": "link",
+            "addDate": 1733654297054,
+            "title": "路过图床",
+            "icon": "https://logo.clearbit.com/imgse.com",
+            "url": "https://imgse.com/"
           }
         ]
       },
@@ -120,6 +127,13 @@
             "title": "us.kg",
             "icon": "https://logo.clearbit.com/us.kg",
             "url": "http://us.kg/"
+          },
+          {
+            "type": "link",
+            "addDate": 1733224584171,
+            "title": "GitHub",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/"
           }
         ]
       },
@@ -260,13 +274,6 @@
             "title": "Tailchat",
             "icon": "https://logo.clearbit.com/nightly.paw.msgbyte.com",
             "url": "https://nightly.paw.msgbyte.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1733224584171,
-            "title": "GitHub",
-            "icon": "https://logo.clearbit.com/github.com",
-            "url": "https://github.com/"
           }
         ]
       }
