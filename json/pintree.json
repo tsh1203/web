@@ -64,6 +64,20 @@
             "title": "路过图床",
             "icon": "https://logo.clearbit.com/imgse.com",
             "url": "https://imgse.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1734345405704,
+            "title": "tldraw",
+            "icon": "https://logo.clearbit.com/www.tldraw.com",
+            "url": "https://www.tldraw.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1735554360930,
+            "title": "163邮箱",
+            "icon": "https://logo.clearbit.com/mail.163.com",
+            "url": "http://mail.163.com/"
           }
         ]
       },
@@ -84,7 +98,7 @@
             "addDate": 1733224584173,
             "title": "tshの主页",
             "icon": "https://logo.clearbit.com/tsh1203.github.io",
-            "url": "https://tsh1203.github.io/tsh/"
+            "url": "https://tsh1203.github.io/home/"
           },
           {
             "type": "link",
@@ -99,13 +113,6 @@
             "title": "web导航（旧）",
             "icon": "https://logo.clearbit.com/tsh1203.github.io",
             "url": "https://tsh1203.github.io/website"
-          },
-          {
-            "type": "link",
-            "addDate": 1733227363989,
-            "title": "czh的blog",
-            "icon": "https://logo.clearbit.com/czhblog.us.kg",
-            "url": "https://czhblog.us.kg/"
           }
         ]
       },
@@ -260,6 +267,13 @@
             "title": "florr wiki",
             "icon": "https://logo.clearbit.com/official-florrio.fandom.com",
             "url": "https://official-florrio.fandom.com/wiki/Florr.io_Community_Wiki"
+          },
+          {
+            "type": "link",
+            "addDate": 1735554402965,
+            "title": "bloxd",
+            "icon": "https://logo.clearbit.com/bloxd.io",
+            "url": "http://bloxd.io/"
           }
         ]
       },
