@@ -2,7 +2,7 @@
   {
     "type": "folder",
     "addDate": 1727682200818,
-    "title": "桌面书签",
+    "title": "书签栏",
     "children": [
       {
         "type": "folder",
@@ -288,6 +288,13 @@
             "title": "Tailchat",
             "icon": "https://logo.clearbit.com/nightly.paw.msgbyte.com",
             "url": "https://nightly.paw.msgbyte.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1737257355021,
+            "title": "盒子IM",
+            "icon": "https://logo.clearbit.com/www.boxim.online",
+            "url": "https://www.boxim.online/#/login"
           }
         ]
       }
