@@ -11,13 +11,6 @@
         "children": [
           {
             "type": "link",
-            "addDate": 1733224584169,
-            "title": "AIchatOS2",
-            "icon": "https://logo.clearbit.com/chat18.aichatosgg.com",
-            "url": "https://chat18.aichatosgg.com/#/chat/1733221989874"
-          },
-          {
-            "type": "link",
             "addDate": 1733224584170,
             "title": "洛谷工具站",
             "icon": "https://logo.clearbit.com/luogu.codingoier.com",
@@ -78,6 +71,20 @@
             "title": "163邮箱",
             "icon": "https://logo.clearbit.com/mail.163.com",
             "url": "http://mail.163.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1738996171573,
+            "title": "SpaceCloud VPN",
+            "icon": "https://logo.clearbit.com/spacess.cc",
+            "url": "https://spacess.cc/"
+          },
+          {
+            "type": "link",
+            "addDate": 1738996199709,
+            "title": "ikuuu VPN",
+            "icon": "https://logo.clearbit.com/ikuuu.one",
+            "url": "https://ikuuu.one/"
           }
         ]
       },
@@ -113,6 +120,55 @@
             "title": "web导航（旧）",
             "icon": "https://logo.clearbit.com/tsh1203.github.io",
             "url": "https://tsh1203.github.io/website"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1739170539947,
+        "title": "AI",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1739150245606,
+            "title": "模型库",
+            "icon": "https://logo.clearbit.com/www.scnet.cn",
+            "url": "https://www.scnet.cn/ui/aihub/models"
+          },
+          {
+            "type": "link",
+            "addDate": 1733224584169,
+            "title": "chatGPT",
+            "icon": "https://logo.clearbit.com/chat18.aichatosgg.com",
+            "url": "https://chat18.aichatosgg.com/#/chat/1733221989874"
+          },
+          {
+            "type": "link",
+            "addDate": 1739170600628,
+            "title": "kimi",
+            "icon": "https://logo.clearbit.com/kimi.moonshot.cn",
+            "url": "https://kimi.moonshot.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1739170647236,
+            "title": "豆包",
+            "icon": "https://logo.clearbit.com/doubao.com",
+            "url": "http://doubao.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1739170657636,
+            "title": "deepseek",
+            "icon": "https://logo.clearbit.com/deepseek.com",
+            "url": "http://deepseek.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1739170682756,
+            "title": "纳米",
+            "icon": "https://logo.clearbit.com/n.cn",
+            "url": "http://n.cn/"
           }
         ]
       },
@@ -295,6 +351,13 @@
             "title": "盒子IM",
             "icon": "https://logo.clearbit.com/www.boxim.online",
             "url": "https://www.boxim.online/#/login"
+          },
+          {
+            "type": "link",
+            "addDate": 1739170531467,
+            "title": "discord",
+            "icon": "https://logo.clearbit.com/discord.com",
+            "url": "http://discord.com/"
           }
         ]
       }
