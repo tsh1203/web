@@ -39,6 +39,13 @@
           },
           {
             "type": "link",
+            "addDate": 1733289466927,
+            "title": "zhengddzz网盘",
+            "icon": "https://logo.clearbit.com/pan.zhengddzz.fun",
+            "url": "http://pan.zhengddzz.fun/"
+          },
+          {
+            "type": "link",
             "addDate": 1733654297054,
             "title": "路过图床",
             "icon": "https://logo.clearbit.com/imgse.com",
@@ -84,7 +91,7 @@
             "addDate": 1733224584171,
             "title": "tsh blog",
             "icon": "https://logo.clearbit.com/tsh1203.github.io",
-            "url": "https://tsh1203.github.io"
+            "url": "https://tsh1203.github.io/blog"
           },
           {
             "type": "link",
@@ -183,13 +190,6 @@
             "title": "cloudflare",
             "icon": "https://logo.clearbit.com/www.cloudflare-cn.com",
             "url": "https://www.cloudflare-cn.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1733554311408,
-            "title": "us.kg",
-            "icon": "https://logo.clearbit.com/us.kg",
-            "url": "http://us.kg/"
           },
           {
             "type": "link",
@@ -337,6 +337,13 @@
             "title": "bloxd",
             "icon": "https://logo.clearbit.com/bloxd.io",
             "url": "http://bloxd.io/"
+          },
+          {
+            "type": "link",
+            "addDate": 1746100908374,
+            "title": "zorr",
+            "icon": "https://logo.clearbit.com/zorr.pro",
+            "url": "http://zorr.pro/"
           }
         ]
       },
@@ -386,6 +393,13 @@
             "title": "youtube",
             "icon": "https://logo.clearbit.com/youtube.com",
             "url": "http://youtube.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1743598070870,
+            "title": "私信 - 洛谷 | 计算机科学教育新生态",
+            "icon": "https://logo.clearbit.com/www.luogu.com.cn",
+            "url": "https://www.luogu.com.cn/chat?uid=919709"
           }
         ]
       }
