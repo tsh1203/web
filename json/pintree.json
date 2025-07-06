@@ -39,13 +39,6 @@
           },
           {
             "type": "link",
-            "addDate": 1733289466927,
-            "title": "zhengddzz网盘",
-            "icon": "https://logo.clearbit.com/pan.zhengddzz.fun",
-            "url": "http://pan.zhengddzz.fun/"
-          },
-          {
-            "type": "link",
             "addDate": 1733654297054,
             "title": "路过图床",
             "icon": "https://logo.clearbit.com/imgse.com",
@@ -78,6 +71,13 @@
             "title": "ikuuu VPN",
             "icon": "https://logo.clearbit.com/ikuuu.one",
             "url": "https://ikuuu.one/"
+          },
+          {
+            "type": "link",
+            "addDate": 1751808700668,
+            "title": "傲游浏览器",
+            "icon": "https://logo.clearbit.com/www.maxthon.com",
+            "url": "https://www.maxthon.com/zh/"
           }
         ]
       },
@@ -91,7 +91,7 @@
             "addDate": 1733224584171,
             "title": "tsh blog",
             "icon": "https://logo.clearbit.com/tsh1203.github.io",
-            "url": "https://tsh1203.github.io"
+            "url": "https://tsh1203.github.io/blog"
           },
           {
             "type": "link",
@@ -169,13 +169,6 @@
             "title": "纳米",
             "icon": "https://logo.clearbit.com/n.cn",
             "url": "http://n.cn/"
-          },
-          {
-            "type": "link",
-            "addDate": 1739880346436,
-            "title": "打开WebUI --- Open WebUI",
-            "icon": "https://logo.clearbit.com/10.21.210.33",
-            "url": "http://10.21.210.33:8080/"
           }
         ]
       },
@@ -214,10 +207,10 @@
           },
           {
             "type": "link",
-            "addDate": 1733224584172,
-            "title": "nsoj(内网）",
-            "icon": "https://logo.clearbit.com/10.5.42.100",
-            "url": "http://10.5.42.100/loginpage.php"
+            "addDate": 1733653509873,
+            "title": "nhoj",
+            "icon": "https://logo.clearbit.com/nh.51goc.com",
+            "url": "http://nh.51goc.com/"
           },
           {
             "type": "link",
@@ -225,13 +218,6 @@
             "title": "nsoj(外网）",
             "icon": "https://logo.clearbit.com/nsoj.cplus.ac.cn",
             "url": "https://nsoj.cplus.ac.cn/loginpage.php"
-          },
-          {
-            "type": "link",
-            "addDate": 1733653509873,
-            "title": "nhoj",
-            "icon": "https://logo.clearbit.com/nh.51goc.com",
-            "url": "http://nh.51goc.com/"
           },
           {
             "type": "link",
@@ -246,13 +232,6 @@
             "title": "OierDb",
             "icon": "https://logo.clearbit.com/www.xn--vuqs4zq3d.com",
             "url": "https://www.xn--vuqs4zq3d.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1733224584171,
-            "title": "CSDN",
-            "icon": "https://logo.clearbit.com/www.csdn.net",
-            "url": "https://www.csdn.net/"
           },
           {
             "type": "link",
@@ -274,6 +253,27 @@
             "title": "UVA",
             "icon": "https://logo.clearbit.com/onlinejudge.org",
             "url": "https://onlinejudge.org/"
+          },
+          {
+            "type": "link",
+            "addDate": 1751808752161,
+            "title": "博客园",
+            "icon": "https://logo.clearbit.com/www.cnblogs.com",
+            "url": "https://www.cnblogs.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1733224584171,
+            "title": "CSDN",
+            "icon": "https://logo.clearbit.com/www.csdn.net",
+            "url": "https://www.csdn.net/"
+          },
+          {
+            "type": "link",
+            "addDate": 1751808768010,
+            "title": "NOI官网",
+            "icon": "https://logo.clearbit.com/noi.cn",
+            "url": "https://noi.cn/"
           }
         ]
       },
@@ -344,6 +344,13 @@
             "title": "zorr",
             "icon": "https://logo.clearbit.com/zorr.pro",
             "url": "http://zorr.pro/"
+          },
+          {
+            "type": "link",
+            "addDate": 1751808831013,
+            "title": "kards",
+            "icon": "https://logo.clearbit.com/www.kards.com",
+            "url": "https://www.kards.com/zh"
           }
         ]
       },
