@@ -78,6 +78,13 @@
             "title": "傲游浏览器",
             "icon": "https://logo.clearbit.com/www.maxthon.com",
             "url": "https://www.maxthon.com/zh/"
+          },
+          {
+            "type": "link",
+            "addDate": 1752409735719,
+            "title": "数据生成器（自制）",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/tsh1203/datamaker"
           }
         ]
       },
@@ -214,17 +221,10 @@
           },
           {
             "type": "link",
-            "addDate": 1733224584172,
-            "title": "nsoj(外网）",
-            "icon": "https://logo.clearbit.com/nsoj.cplus.ac.cn",
-            "url": "https://nsoj.cplus.ac.cn/loginpage.php"
-          },
-          {
-            "type": "link",
-            "addDate": 1733224584170,
-            "title": "青岛oj",
-            "icon": "https://logo.clearbit.com/10.5.47.172",
-            "url": "http://10.5.47.172/"
+            "addDate": 1752390709741,
+            "title": "Virtual Judge",
+            "icon": "https://logo.clearbit.com/vjudge.net",
+            "url": "https://vjudge.net/"
           },
           {
             "type": "link",
@@ -235,13 +235,6 @@
           },
           {
             "type": "link",
-            "addDate": 1733557109089,
-            "title": "codeforces",
-            "icon": "https://logo.clearbit.com/codeforces.com",
-            "url": "https://codeforces.com/"
-          },
-          {
-            "type": "link",
             "addDate": 1733557139817,
             "title": "AtCoder",
             "icon": "https://logo.clearbit.com/atcoder.jp",
@@ -249,10 +242,31 @@
           },
           {
             "type": "link",
+            "addDate": 1733557109089,
+            "title": "codeforces",
+            "icon": "https://logo.clearbit.com/codeforces.com",
+            "url": "https://codeforces.com/"
+          },
+          {
+            "type": "link",
             "addDate": 1733557342641,
             "title": "UVA",
             "icon": "https://logo.clearbit.com/onlinejudge.org",
             "url": "https://onlinejudge.org/"
+          },
+          {
+            "type": "link",
+            "addDate": 1733224584170,
+            "title": "青岛oj",
+            "icon": "https://logo.clearbit.com/10.5.47.172",
+            "url": "http://10.5.47.172/"
+          },
+          {
+            "type": "link",
+            "addDate": 1733224584172,
+            "title": "nsoj(外网）",
+            "icon": "https://logo.clearbit.com/nsoj.cplus.ac.cn",
+            "url": "https://nsoj.cplus.ac.cn/loginpage.php"
           },
           {
             "type": "link",
@@ -400,13 +414,6 @@
             "title": "youtube",
             "icon": "https://logo.clearbit.com/youtube.com",
             "url": "http://youtube.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1743598070870,
-            "title": "私信 - 洛谷 | 计算机科学教育新生态",
-            "icon": "https://logo.clearbit.com/www.luogu.com.cn",
-            "url": "https://www.luogu.com.cn/chat?uid=919709"
           }
         ]
       }
