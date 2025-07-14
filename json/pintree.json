@@ -25,6 +25,13 @@
           },
           {
             "type": "link",
+            "addDate": 1752497455713,
+            "title": "小熊猫c++(旧)(5vpo)",
+            "icon": "https://logo.clearbit.com/enderpearl.lanzouo.com",
+            "url": "https://enderpearl.lanzouo.com/igKsk311ldni"
+          },
+          {
+            "type": "link",
             "addDate": 1733225153113,
             "title": "原题机",
             "icon": "https://logo.clearbit.com/yuantiji.ac",
@@ -50,13 +57,6 @@
             "title": "tldraw",
             "icon": "https://logo.clearbit.com/www.tldraw.com",
             "url": "https://www.tldraw.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1735554360930,
-            "title": "163邮箱",
-            "icon": "https://logo.clearbit.com/mail.163.com",
-            "url": "http://mail.163.com/"
           },
           {
             "type": "link",
@@ -288,6 +288,20 @@
             "title": "NOI官网",
             "icon": "https://logo.clearbit.com/noi.cn",
             "url": "https://noi.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1752497601209,
+            "title": "代码",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/tsh1203/code"
+          },
+          {
+            "type": "link",
+            "addDate": 1752498256913,
+            "title": "OI Wiki",
+            "icon": "https://logo.clearbit.com/oi-wiki.org",
+            "url": "https://oi-wiki.org/"
           }
         ]
       },
@@ -414,6 +428,13 @@
             "title": "youtube",
             "icon": "https://logo.clearbit.com/youtube.com",
             "url": "http://youtube.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1735554360930,
+            "title": "163邮箱",
+            "icon": "https://logo.clearbit.com/mail.163.com",
+            "url": "http://mail.163.com/"
           }
         ]
       }
