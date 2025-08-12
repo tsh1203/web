@@ -131,9 +131,9 @@
           {
             "type": "link",
             "addDate": 1739150245606,
-            "title": "模型库",
-            "icon": "https://logo.clearbit.com/www.scnet.cn",
-            "url": "https://www.scnet.cn/ui/aihub/models"
+            "title": "gemini",
+            "icon": "https://logo.clearbit.com/gemini.google.com",
+            "url": "https://gemini.google.com/"
           },
           {
             "type": "link",
